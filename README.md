@@ -1,11 +1,9 @@
+<img align="center" alt="Coding" width="1000" src="https://user-images.githubusercontent.com/68494838/141684558-e638ad1b-995b-4dac-b631-226e0edb2bdb.png">
 <h1 align="center">Hi 👋, I'm Arnav Kulshrestha</h1>
 <h3 align="center">A passionate learner</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnav2001&label=Profile%20views&color=0e75b6&style=flat" alt="arnav2001" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arnav2001" alt="arnav2001" /></a> </p>
-
-- 🔭 I’m currently working on [Code World - Learn C Programming](https://play.google.com/store/apps/details?id=com.me.code_world&hl=en&gl=US)
+<img align="right" alt="Coding" width="200" src="https://media1.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif?cid=ecf05e47m2n94ongd4rz9gk7dicidei48t2gcsj17odnpitc&rid=giphy.gif&ct=g">
+⚡  I’m currently working on [Code World - Learn C Programming](https://play.google.com/store/apps/details?id=com.me.code_world&hl=en&gl=US)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
