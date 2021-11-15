@@ -3,7 +3,7 @@
 <h3 align="center">A passionate learner</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnav2001&label=Profile%20views&color=0e75b6&style=flat" alt="arnav2001" /> </p>
 <img align="right" alt="Coding" width="200" src="https://media1.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif?cid=ecf05e47m2n94ongd4rz9gk7dicidei48t2gcsj17odnpitc&rid=giphy.gif&ct=g">
-⚡  I’m currently working on [Code World - Learn C Programming](https://play.google.com/store/apps/details?id=com.me.code_world&hl=en&gl=US)
+⚡ <a href="https://play.google.com/store/apps/details?id=com.me.code_world&hl=en&gl=US">I’m currently working on [Code World - Learn C Programming]</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
